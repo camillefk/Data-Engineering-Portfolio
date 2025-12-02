@@ -1,0 +1,4 @@
+pedido_id,produto,valor,cliente_id
+P101,Mouse,50.0,C001
+P102,Teclado,150.0,C001
+P201,Monitor,800.0,C002

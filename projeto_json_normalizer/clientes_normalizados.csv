@@ -1,0 +1,3 @@
+cliente_id,nome,status_assinatura,pedidos,detalhes_contato_email,detalhes_contato_telefone
+C001,João Silva,Ativo,"[{'pedido_id': 'P101', 'produto': 'Mouse', 'valor': 50.0}, {'pedido_id': 'P102', 'produto': 'Teclado', 'valor': 150.0}]",joao@exemplo.com,5511988887777
+C002,Maria Souza,Inativo,"[{'pedido_id': 'P201', 'produto': 'Monitor', 'valor': 800.0}]",maria@exemplo.com,
